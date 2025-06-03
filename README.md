@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alamin Joy</h1>
 
-
-
 ### 💫 About Me:
 🎓 I'm a third-year Computer Science and Engineering student at the National University of Bangladesh.  
 💡 I love building Android apps with **Kotlin**, using clean architecture like **MVVM**, and working with **Firebase** and **REST APIs**.  
 🎯 My goal is to create beautiful, functional, and user-friendly mobile experiences.
-
----
-
-### 🔗 Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/handsomerobot)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/handsome_robot)
 
 ---
 
@@ -33,42 +25,26 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=handsomerobot1&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomerobot1&layout=compact&theme=radical" alt="langs"/>
+### 📊 GitHub Stats & 🔥 Streaks:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=handsomerobot1&show_icons=true&theme=radical" width="30%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=handsomerobot1&theme=radical" width="30%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomerobot1&layout=compact&theme=radical" width="30%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=handsomerobot1&theme=radical" alt="streak"/>
-</p>
+
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=handsomerobot1&theme=radical&no-bg=true&no-frame=true" alt="trophies" />
-</p>
-
+### 🔗 Connect with me:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@handsomerobot)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/@handsome_robot)
 ---
 
-### 🐍 GitHub Contribution Snake Game
+### 🐍 GitHub Contribution Snake Game:
 <p align="center">
   <img src="https://github.com/handsomerobot1/handsomerobot1/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=handsomerobot1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top repo stats" />
-</p>
-
----
-
-### 📈 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=handsomerobot1&label=Profile%20Views&color=6F36AD&icon=5" alt="visit count" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
