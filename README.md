@@ -1,21 +1,74 @@
-# 💫 About Me:
-Hi! I'm Alamin Joy, a third-year Computer Science and Engineering student at the National University of Bangladesh, passionate about Android app development and clean, user-friendly design. I specialize in building mobile applications using Kotlin, Firebase, REST APIs with MVVM architecture.
+<h1 align="center">Hi 👋, I'm Alamin Joy</h1>
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=@handsomerobot1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=@handsomerobot1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=@handsomerobot1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=@handsomerobot1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=@handsomerobot1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💫 About Me:
+🎓 I'm a third-year Computer Science and Engineering student at the National University of Bangladesh.  
+💡 I love building Android apps with **Kotlin**, using clean architecture like **MVVM**, and working with **Firebase** and **REST APIs**.  
+🎯 My goal is to create beautiful, functional, and user-friendly mobile experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=@handsomerobot1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔗 Connect with me:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/handsomerobot)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/handsome_robot)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=handsomerobot1&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomerobot1&layout=compact&theme=radical" alt="langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=handsomerobot1&theme=radical" alt="streak"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=handsomerobot1&theme=radical&no-bg=true&no-frame=true" alt="trophies" />
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake Game
+<p align="center">
+  <img src="https://github.com/handsomerobot1/handsomerobot1/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=handsomerobot1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top repo stats" />
+</p>
+
+---
+
+### 📈 Visitor Count
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=handsomerobot1&label=Profile%20Views&color=6F36AD&icon=5" alt="visit count" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
