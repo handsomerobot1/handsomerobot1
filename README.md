@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alamin Joy</h1>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="android coding gif">
-🎓 I'm a third-year Computer Science and Engineering student at the National University of Bangladesh.  
+🎓 I'm a final-year Computer Science and Engineering student at the National University of Bangladesh.  
 💡 I love building Android apps with **Kotlin**, using clean architecture like **MVVM**, and working with **Firebase** and **REST APIs**.  
 🎯 My goal is to create beautiful, functional, and user-friendly mobile experiences.
 
